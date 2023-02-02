@@ -1,0 +1,11 @@
+body{
+    background-color: #E9ECEF !important;
+}
+
+#carouselExampleCaptions{
+    margin: 0 auto;
+}
+
+.btn-light{
+    margin-top: 10px;
+}
